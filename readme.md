@@ -8,6 +8,7 @@ This project consists of prompts for ChatGPT and GPT-3.5 models, designed to ass
 
 [GPT4](https://openai.com/research/gpt-4) More powerful than any GPT-3.5 model, it can handle more complex instructions and can follow and apply them more effectively.
 
+[GPT4](https://openai.com/research/gpt-4o1) More powerful than any GPT-4.0 model, it uses advanced reasoning and can follow and apply them more effectively.
 ## Why to use:
 
 This is an easy and straightforward method for guiding the model to do almost anything. It uses a simple structure to provide directions and can adapt to handle any language-related task.
